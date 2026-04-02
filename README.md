@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Your%20Name%20-%20Open%20Source%20Dev&height=120](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=George%20Falcon&textBg=false&descAlign=50&fontColor=888888)" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=George%20Falcon&textBg=false&descAlign=50&fontColor=888888" alt="Header" />
 </p>
 
 <!--
