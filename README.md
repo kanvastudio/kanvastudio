@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=George%20Falcon&fontSize=75&fontColor=fff&stroke=354565&strokeWidth=1&animation=twinkle&fontAlignY=38&desc=Artisanal%20AI%20%26%20Creative%20Systems%20Developer&descAlignY=62&descAlign=50" alt="George Falcon - Creative Systems" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=180&text=George%20Falcon&fontSize=65&fontColor=ffffff&stroke=354565&strokeWidth=1&animation=scale&desc=Generative%20Art%20%26%20Systems%20Architecture&descAlignY=68&descAlign=50" alt="George Falcon - Generative Art" />
 </p>
-
-
 
 <!--
 **About Me 
