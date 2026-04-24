@@ -1,20 +1,10 @@
 <p align="center">
-  <a href="https://github.com/kanvastudio">
-    <img 
-      src="images/vasnetsov_header.jpg" 
-      alt="George Falcon - The Bogatyr of Systems" 
-      width="100%" 
-      style="
-        border: 4px solid #3e4c59; 
-        border-radius: 8px; 
-        box-shadow: 0 10px 20px rgba(0,0,0,0.5);
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-      "
-    />
-  </a>
+  <h1>ГЕОРГИЙ ФАЛЬКОН</h1>
+  <h3>The Bogatyr of Agentic Systems</h3>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain Badge" />
 </p>
+
 <!--
 **About Me 
 
