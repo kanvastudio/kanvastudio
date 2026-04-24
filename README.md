@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kanvastudio&show_icons=true&theme=tokyonight" alt="Stats" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&text=George%20Falcon&fontSize=70&fontColor=ffffff&fontAlignY=45&stroke=354565&strokeWidth=1&animation=fadeIn&desc=Technician%20|%20AI%20Artist%20|%20Systems%20Architect&descAlignY=70&descAlign=50" alt="George Falcon - AI Artist" />
 </p>
 
 
