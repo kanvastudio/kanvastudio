@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=150&color=gradient&text=George%20Falcon&textBg=false&descAlign=50&fontColor=354565" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=George%20Falcon&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Systems%20Technician%20|%20AI%20Explorer&descAlignY=60&descAlign=50" alt="George Falcon Header" />
 </p>
 
 <!--
