@@ -1,7 +1,20 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=180&text=George%20Falcon&fontSize=65&fontColor=ffffff&stroke=354565&strokeWidth=1&animation=scale&desc=Generative%20Art%20%26%20Systems%20Architecture&descAlignY=68&descAlign=50" alt="George Falcon - Generative Art" />
+  <a href="https://github.com/kanvastudio">
+    <img 
+      src="images/vasnetsov_header.jpg" 
+      alt="George Falcon - The Bogatyr of Systems" 
+      width="100%" 
+      style="
+        border: 4px solid #3e4c59; 
+        border-radius: 8px; 
+        box-shadow: 0 10px 20px rgba(0,0,0,0.5);
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+      "
+    />
+  </a>
 </p>
-
 <!--
 **About Me 
 
