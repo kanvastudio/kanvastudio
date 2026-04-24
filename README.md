@@ -1,8 +1,5 @@
 <p align="center">
-  <h1>ГЕОРГИЙ ФАЛЬКОН</h1>
-  <h3>The Bogatyr of Agentic Systems</h3>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain Badge" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=354565&height=150&text=George%20Falcon&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Systems%20Technician%20|%20Python%20Developer&descSize=20&descAlignY=65&descAlign=50" alt="George Falcon Header" />
 </p>
 
 <!--
