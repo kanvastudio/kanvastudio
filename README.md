@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&text=George%20Falcon&fontSize=70&fontColor=ffffff&fontAlignY=45&stroke=354565&strokeWidth=1&animation=fadeIn&desc=Technician%20|%20AI%20Artist%20|%20Systems%20Architect&descAlignY=70&descAlign=50" alt="George Falcon - AI Artist" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=George%20Falcon&fontSize=75&fontColor=fff&stroke=354565&strokeWidth=1&animation=twinkle&fontAlignY=38&desc=Artisanal%20AI%20%26%20Creative%20Systems%20Developer&descAlignY=62&descAlign=50" alt="George Falcon - Creative Systems" />
 </p>
+
 
 
 <!--
