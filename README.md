@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=354565&height=150&text=George%20Falcon&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Systems%20Technician%20|%20Python%20Developer&descSize=20&descAlignY=65&descAlign=50" alt="George Falcon Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=354565&height=180&section=header&text=George%20Falcon&fontSize=65&fontColor=ffffff&fontAlignY=35&desc=Building%20Intelligent%20Systems&descAlignY=58" alt="George Falcon Header" />
 </p>
 
 <!--
